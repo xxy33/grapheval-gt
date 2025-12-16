@@ -2,7 +2,7 @@
 
  **GraphEval-GT: Enhancing Viewpoint-Based Abstract Evaluation with Graph Transformer Mechanisms**
 
-This repository contains the official implementation of **GraphEval-GT**, a framework for automated scientific idea evaluation accepted at **ICASSP 2025**. It constructs a **Structured Viewpoint Graph (SVG)** from abstracts and applies a global Structurally-Aware Graph Attention Network.
+This repository contains the official implementation of **GraphEval-GT**, a framework for automated scientific idea evaluation. It constructs a **Structured Viewpoint Graph (SVG)** from abstracts and applies a global Structurally-Aware Graph Attention Network.
 
 ## 📂 Directory Structure
 
