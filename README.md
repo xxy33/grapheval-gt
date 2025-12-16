@@ -91,15 +91,3 @@ Hyperparameters, file paths, and API settings are managed via `src/config_loader
 **LLM Setup:**
 Since `src/azure_llm_api.py` is used, ensure your Azure OpenAI or OpenAI API keys are set in your environment variables or config file before running Step 1.
 
-## 🔗 Citation
-
-If you find this code useful for your research, please cite our paper:
-
-```bibtex
-@inproceedings{chen2025graphevalgt,
-  title={GraphEval-GT: Enhancing Viewpoint-Based Abstract Evaluation with Graph Transformer Mechanisms},
-  author={Chen, Xiaoyu and Wu, Fengge and Zhao, Junsuo},
-  booktitle={ICASSP 2025},
-  year={2025}
-}
-```
